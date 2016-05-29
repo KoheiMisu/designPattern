@@ -1,7 +1,9 @@
 {
     "autoload": {
         "psr-4": {
-            "Iterator\\": "Iterator/"
+            "Iterator\\": "Iterator/",
+            "FactoryMethod\\": "FactoryMethod/",
+            "Composite\\": "Composite"
         }
     }
 }
