@@ -3,7 +3,7 @@
         "psr-4": {
             "Iterator\\": "Iterator/",
             "FactoryMethod\\": "FactoryMethod/",
-            "Composite\\": "Composite"
+            "Composite\\": "Composite/"
         }
     }
 }
