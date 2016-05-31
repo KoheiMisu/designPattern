@@ -2,8 +2,6 @@
 
 namespace Iterator;
 
-use Iterator\FrienBean;
-
 class ProgrammerIterator extends \FilterIterator
 {
     public function __construct($iterator)
